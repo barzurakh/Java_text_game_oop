@@ -5,7 +5,7 @@ public class Main extends Exception {
         {
         System.out.println("\nHello User:)");
         System.out.println("It is little RPG Text Game and You are his Main Character)");
-        System.out.println("\nHere are the rules and aspects of my game:");
+        /*System.out.println("\nHere are the rules and aspects of my game:");
         System.out.println("1.Firstly you will create the Characteristics for your Character ( all in summery should have 15 points )");
         System.out.println("\n2.Every Character has:  ");
         System.out.println("· HP - Character's health points");
@@ -21,8 +21,11 @@ public class Main extends Exception {
                 "\nEvery actions have number and when choosing the action just type the number of it" +
                 "\nAfter killing Bad Character all His Items move to you" +
                 "\nIf you met a Good Character, he will be Your Ally and You can call him any time while attacking" +
-                "\nIf You call Your Ally to attack, the damage of Attack will be Your Ally's damage level, BUT the damage from the Enemy will be divided \nbetween you all " +
-                "\n\nGood luck buddy, hope You will be at home safe and happy, playing with Your children and enjoying Your lovely wife Janny " +
+                "\nIf You call Your Ally to attack, the damage of Attack will be Your Ally's damage level, BUT the damage from the Enemy will be divided \nbetween you all ");
+               */
+
+            System.out.println ("You can find the rules for the game in the README file on my github");
+        System.out.println ("\n\nGood luck buddy, hope You will be at home safe and happy, playing with Your children and enjoying Your lovely wife Janny " +
                 "\n(I added family to Your Character to motivate You more hehe) ");
     }
 
